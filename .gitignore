@@ -21,7 +21,7 @@
 *.o
 *.DS_Store
 *.so
-
+nomjc/
 .vs/
 __pycache__/
 output/
